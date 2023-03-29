@@ -1,0 +1,146 @@
+.Colorname {
+	color: red;
+}
+
+.HEX {
+	color: #ff0000;
+}
+
+.RGB {
+	color: rgb(255, 0, 0);
+}
+
+.Right {
+	text-align: right;
+}
+
+.left {
+	text-align: left;
+}
+
+.center {
+	text-align: center;
+}
+
+.justify {
+	text-align: justify;
+}
+
+.talignright {
+	text-align-last: right;
+}
+
+.talignleft {
+	text-align-last: left;
+}
+
+.taligncenter {
+	text-align-last: center;
+}
+
+.talignjustify {
+	text-align-last: justify;
+}
+
+.Overline {
+	text-decoration-line: overline;
+}
+
+.Linethrough {
+	text-decoration-line: line-through;
+}
+
+.Underline {
+	text-decoration-line: underline;
+}
+
+.overlineunderline {
+	text-decoration-line: overline underline;
+	text-decoration-color: blueviolet;
+}
+
+.color {
+	text-decoration-line: underline;
+	text-decoration-color: rgb(234, 155, 9);
+}
+
+.solid {
+	text-decoration-style: solid;
+	text-decoration-line: underline;
+}
+
+.double {
+	text-decoration-style: double;
+	text-decoration-line: underline;
+}
+
+.dashed {
+	text-decoration-style: dashed;
+	text-decoration-line: underline;
+}
+
+.dotted {
+	text-decoration-style: dotted;
+	text-decoration-line: underline;
+}
+
+.Wavy {
+	text-decoration-style: wavy;
+	text-decoration-line: underline;
+}
+
+.px {
+	text-decoration-style: solid;
+	text-decoration-line: underline;
+	text-decoration-thickness: 1.5px;
+}
+
+.percentage {
+	text-decoration-style: solid;
+	text-decoration-line: underline;
+	text-decoration-thickness: 50%;
+}
+
+.shorthand {
+	text-decoration: solid underline 5px rebeccapurple;
+}
+
+.overcase {
+	text-transform: lowercase;
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
+
+.capitalize {
+	text-transform: capitalize;
+}
+
+.textindentpx {
+	text-indent: 40px;
+}
+
+.textindentpercentage {
+	text-indent: 40%;
+}
+
+.letterspacing {
+	letter-spacing: 5px;
+}
+
+.lineheight {
+	line-height: 3%;
+}
+
+.wordspace {
+	word-spacing: 3px;
+}
+
+.whitespace {
+	white-space: nowrap;
+}
+
+.shadow {
+	text-shadow: 10px 2px 5px red;
+}
